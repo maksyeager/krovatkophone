@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000px"
+   height="1000px"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="КриваяК.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="122.3536"
+     inkscape:cy="223.05739"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1-4"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="857"
+     inkscape:window-x="-8"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="498.01562,499.99609"
+       orientation="0,1"
+       id="guide121"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="500.00391,501.41406"
+       orientation="1,0"
+       id="guide123"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="312,751.5"
+       orientation="0,1"
+       id="guide125"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="799.75,45.5"
+       orientation="0,1"
+       id="guide127"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs10">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective220" />
+    <linearGradient
+       id="linearGradient4572"
+       inkscape:collect="always">
+      <stop
+         id="stop4568"
+         offset="0"
+         style="stop-color:#808a32;stop-opacity:1;" />
+      <stop
+         id="stop4570"
+         offset="1"
+         style="stop-color:#808a32;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="76.25581"
+       x2="129.46354"
+       y1="76.25581"
+       x1="30.361626"
+       id="linearGradient4574"
+       xlink:href="#linearGradient4572"
+       inkscape:collect="always" />
+  </defs>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="layer1-4"
+       inkscape:label="Layer 1"
+       transform="matrix(7.151463,0,0,7.151463,-31.142912,-293.14464)">
+      <path
+         sodipodi:nodetypes="cccscccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5157"
+         d="m 46.801375,167.87938 c -2.456674,-2.56587 -4.47196,-5.75413 -5.580827,-9.25992 -1.113578,-4.17415 -1.624201,-7.78257 -1.971723,-11.75398 -0.344404,-1.58467 -0.344404,-3.89351 -0.47891,-34.6303 -0.101306,-23.14997 -0.01583,-34.404682 -0.01583,-34.404682 -0.02278,-0.895968 -1.296935,-2.0915 -2.460904,-2.0915 0,0 -2.341013,0.03589 -4.745265,0 C 23.505475,75.783061 17.274631,69.26022 16.829132,61.549806 17.096084,53.90884 22.05934,47.384764 29.74182,46.496274 c 0.58623,-0.03951 16.121936,0 34.06181,0 11.853136,-0.05366 21.630622,-3e-6 33.364187,-3e-6 7.987153,0 12.647013,2.256906 17.231543,6.310255 3.64807,2.965221 5.26473,7.868327 5.44259,11.635967 0.18541,2.854053 -0.46503,5.37365 -1.41805,7.680872 -6.60216,10.091691 -14.9612,16.980919 -22.929755,23.924225 -4.39589,3.715135 -7.083284,5.72376 -3.194102,9.55088 12.524727,14.79912 38.092577,32.51578 38.545817,50.15931 -2.95773,14.61266 -5.45427,18.70228 -19.97351,18.70228 H 83.625389 c -13.109014,0 -28.370009,1.06892 -36.824014,-6.58068 z"
+         style="fill:#000000;stroke-width:0.09670123" />
+    </g>
+  </g>
+</svg>
